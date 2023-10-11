@@ -1,0 +1,21 @@
+body {
+    background-color: cornsilk;
+}
+
+.title {
+    color: lightcoral;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.list-main {
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
